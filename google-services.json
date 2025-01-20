@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562910992752",
+    "project_id": "personalconnectfinal",
+    "storage_bucket": "personalconnectfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562910992752:android:438bd94697a4ba5e7217b5",
+        "android_client_info": {
+          "package_name": "com.brunogodoy.PersonalConnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mPlpUVLu53p7veVBreZgPurmTd6I6SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562910992752:android:6587bffe8810242e7217b5",
+        "android_client_info": {
+          "package_name": "com.brunogodoy.PersonalConnectFinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mPlpUVLu53p7veVBreZgPurmTd6I6SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
