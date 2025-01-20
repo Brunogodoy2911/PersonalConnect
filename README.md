@@ -9,7 +9,7 @@ PersonalConnect é um aplicativo desenvolvido como parte do meu Trabalho de Conc
 O objetivo do projeto é fornecer uma plataforma para personal trainers (treinadores pessoais) gerenciarem e criarem fichas de treinos para seus alunos de forma organizada e eficaz.
 </p>
 
-## 🎨 Layout
+## 🎨 Layout - Clique na imagem para ver melhor
 
 <p align="center">
   <img src="assets/telas.png" alt="Imagem do aplicativo" width="80%">
